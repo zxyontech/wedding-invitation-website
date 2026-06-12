@@ -36,7 +36,7 @@ export function MusicPlayer({ shouldPlay }: MusicPlayerProps) {
   return (
     <>
       {/* Replace /audio/background.mp3 with your own track */}
-      <audio ref={audioRef} src="/audio/background.mp3" loop preload="none" />
+      <audio ref={audioRef} src="/music/wedding.aac" loop preload="none" />
       <motion.button
         initial={{ opacity: 0, scale: 0.8 }}
         animate={{ opacity: 1, scale: 1 }}

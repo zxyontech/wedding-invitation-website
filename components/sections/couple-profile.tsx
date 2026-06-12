@@ -46,7 +46,7 @@ export function CoupleProfile() {
   return (
     <section id="mempelai" className="px-6 py-24 md:py-32">
       <div className="mx-auto max-w-5xl">
-        <SectionHeading eyebrow="Bismillah" title="Mempelai" />
+        <SectionHeading eyebrow="Dengan Penuh Sukacita" title="Mempelai" />
         <div className="mt-16 grid grid-cols-1 items-start gap-16 md:grid-cols-[1fr_auto_1fr] md:gap-8">
           <ProfileCard person={couple.groom} delay={0} />
           <div className="hidden items-center justify-center md:flex">

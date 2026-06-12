@@ -22,12 +22,12 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Dimas & Anindya — Undangan Pernikahan',
+  title: 'Farrel & Ellen — Undangan Pernikahan',
   description:
-    'Dengan penuh sukacita, kami mengundang Anda untuk hadir dan memberikan doa restu di hari bahagia pernikahan kami.',
+    'Dengan penuh sukacita, kami mengundang Anda untuk hadir dan memberikan doa restu di hari bahagia pernikahan Farrel & Ellen.',
   generator: 'v0.app',
   openGraph: {
-    title: 'Dimas & Anindya — Undangan Pernikahan',
+    title: 'Farrel & Ellen — Undangan Pernikahan',
     description:
       'Dengan penuh sukacita, kami mengundang Anda untuk hadir di hari bahagia kami.',
     type: 'website',

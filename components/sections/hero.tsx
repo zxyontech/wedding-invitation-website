@@ -24,7 +24,7 @@ export function Hero({ onOpen, opened }: HeroProps) {
     >
       <div className="absolute inset-0">
         <img
-          src="/images/hero.png"
+          src="/images/foto_wedding1.jpeg"
           alt="Foto pasangan mempelai"
           className="size-full object-cover"
         />

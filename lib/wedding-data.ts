@@ -1,33 +1,33 @@
 export const weddingData = {
   // Tanggal pernikahan (format ISO) — mudah diganti
-  weddingDate: "2026-09-12T08:00:00+07:00",
+  weddingDate: "2026-06-26T08:00:00+07:00",
 
   couple: {
     groom: {
-      name: "Dimas Arya Pratama",
-      shortName: "Dimas",
-      parents: "Putra dari Bapak Suryanto & Ibu Rahmawati",
+      name: "Farrel ",
+      shortName: "Farrel",
+      parents: "Putra dari Bapak Toni & Ibu Ahui",
       description:
-        "Putra pertama yang penuh dedikasi, mencintai musik dan perjalanan.",
-      photo: "/images/groom.png",
+        "Putra kedua yang penuh dedikasi, mencintai musik dan perjalanan.",
+      photo: "/images/foto_farrel1.png",
       instagram: "@dimasarya",
     },
     bride: {
-      name: "Anindya Putri Lestari",
-      shortName: "Anindya",
-      parents: "Putri dari Bapak Hendra & Ibu Wulandari",
+      name: "Ellen",
+      shortName: "Ellen",
+      parents: "Putri dari Bapak Pendi & Ibu AHA",
       description:
         "Putri kedua yang lembut hati, mencintai seni dan literasi.",
-      photo: "/images/bride.png",
+      photo: "/images/foto_ellen4.png",
       instagram: "@anindyaputri",
     },
   },
 
   greeting: {
-    salutation: "Assalamu'alaikum Warahmatullahi Wabarakatuh",
+    salutation: "Salam Sejahtera bagi kita semua",
     quote:
-      "Dan di antara tanda-tanda kekuasaan-Nya diciptakan-Nya untukmu pasangan hidup dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya di antaramu rasa kasih dan sayang.",
-    source: "QS. Ar-Rum: 21",
+      "Cinta yang tulus adalah hadiah terindah yang dapat kita berikan dan terima. Semoga kebahagiaan selalu menyertai perjalanan kalian berdua.",
+    source: "— Hari Bahagia Farrel & Ellen",
   },
 
   story: [
@@ -62,21 +62,14 @@ export const weddingData = {
   ],
 
   events: [
-    {
-      title: "Akad Nikah",
-      date: "Sabtu, 12 September 2026",
-      time: "08.00 - 10.00 WIB",
-      location: "Masjid Agung Al-Azhar",
-      address: "Jl. Sisingamangaraja, Kebayoran Baru, Jakarta Selatan",
-    },
-    {
-      title: "Resepsi",
-      date: "Sabtu, 12 September 2026",
-      time: "11.00 - 14.00 WIB",
-      location: "Ballroom Hotel Mulia",
-      address: "Jl. Asia Afrika No. 8, Senayan, Jakarta Pusat",
-    },
-  ],
+  {
+    title: "Resepsi",
+    date: "Jumat, 26 Juni 2026",
+    time: "19.00 WIB - Selesai",
+    location: "Lapangan Devaloka",
+    address: "Jalan Bakti, Lapangan Devaloka",
+  },
+],
 
   maps: {
     embedUrl:
@@ -85,12 +78,14 @@ export const weddingData = {
   },
 
   gallery: [
-    "/images/gallery-1.png",
-    "/images/gallery-2.png",
-    "/images/gallery-3.png",
-    "/images/gallery-4.png",
-    "/images/gallery-5.png",
-    "/images/gallery-6.png",
+    "/images/wedding1.jpg",
+    "/images/wedding4.jpg",
+    "/images/wedding3.jpg",
+    "/images/wedding5.jpg",
+    "/images/wedding6.png",
+    "/images/wedding7.jpg",
+    "/images/wedding8.jpg",
+    "/images/wedding9.jpg",
   ],
 
   gifts: [

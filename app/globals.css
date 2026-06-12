@@ -140,3 +140,8 @@
     letter-spacing: 0.35em;
   }
 }
+
+@keyframes scroll-gallery {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(calc(-33.333%)); }
+}

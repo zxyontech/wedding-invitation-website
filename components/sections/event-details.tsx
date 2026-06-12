@@ -11,7 +11,7 @@ export function EventDetails() {
       <div className="mx-auto max-w-4xl">
         <SectionHeading eyebrow="Save The Date" title="Detail Acara" />
 
-        <div className="mt-16 grid grid-cols-1 gap-8 md:grid-cols-2">
+        <div className={`mt-16 grid grid-cols-1 gap-8 ${events.length > 1 ? "md:grid-cols-2" : "max-w-md mx-auto"}`}>
           {events.map((event, index) => (
             <Reveal
               key={event.title}
